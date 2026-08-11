@@ -7,3 +7,6 @@ dist/
 temp_uploads/
 think9_intelligence.db
 test_temp.db
+demo/generate_pdf.py
+demo/think9_pitch_deck.pdf
+
